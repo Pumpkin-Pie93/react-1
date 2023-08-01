@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 8px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 2px solid rgb(192, 190, 188);
+    border-radius: 10px;
+}
+
+.item a {
+    color: rgb(192, 190, 188);
+    text-decoration: none;
+    }
+
+a.active {
+    color: rgb(51, 57, 97);
+    
+    }
